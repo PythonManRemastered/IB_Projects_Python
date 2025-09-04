@@ -7,6 +7,7 @@ import random
 import numpy as np
 import matplotlib.pyplot as plt
 avg = []
+# hello 
 times = []
 def dig_sum(matrix_1):
     sum = 0
