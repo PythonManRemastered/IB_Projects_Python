@@ -7,6 +7,6 @@ def selection_sort(array, size):
 
         array[i], array[min_index] = array[min_index], array[i]
     return array
-arr = [1,2,4,3,7,5]
+arr = [1,2,4,3,7,9, 8, 3, 7.6, 5]
 size = len(arr)
 print(selection_sort(arr, size))
